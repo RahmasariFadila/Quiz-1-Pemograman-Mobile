@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="PROSES_HITUNG" type="id">PROSES_HITUNG</item>
+    <item name="angka_pertama" type="id">angka_pertama</item>
+    <item name="angka_kedua" type="id">angka_kedua</item>
+</resources>
